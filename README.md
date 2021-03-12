@@ -19,7 +19,7 @@ This sample includes:
 * setup.py - this file is used by Python's setuptools library to describe how
   your application will be packaged and installed
 * scripts/ - this directory contains scripts used by AWS CodeDeploy when
-  installing and deploying your application on the Amazon EC2 instance
+  installing and deploying your application on the Amazdson EC2 instance
 * helloworld/ - this directory contains the Python source code for your Flask application
 * tests/ - this directory contains unit tests for your application
 * template.yml - this file contains the description of AWS resources used by AWS
